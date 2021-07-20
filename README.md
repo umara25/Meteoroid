@@ -6,4 +6,4 @@ To get the weather do $weather and then the city name, for example: $weather Tor
 Link for bot: https://tinyurl.com/w5n56c23
 
 
-e
+
